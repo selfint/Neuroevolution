@@ -1,3 +1,7 @@
+# Disclaimer
+This code is super messy and i'm more focused on other projects right now. I might clean it up at some point, but right
+now I highly recommend NOT looking at the code it is horrid.
+
 # Neuroevolution
 Simple evolution of "bugs" trying to find food in the most efficient way. Made with Java and Processing.
 This project is inspired by the youtuber carykh and his projects on neuroevolution. 
